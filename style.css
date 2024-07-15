@@ -357,6 +357,10 @@ article .icon {
 
 #projects {
   position: relative;
+  padding-top: 4vh;
+  height: 96vh;
+  margin: 0 10rem;
+  min-height: fit-content;
 }
 
 .color-container {
